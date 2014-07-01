@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Scala-CXF.iml" filepath="$PROJECT_DIR$/Scala-CXF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Scala-Apache-CXF-Webservice-Sample/ScalaApacheCXFWebserviceSample.iml" filepath="$PROJECT_DIR$/../Scala-Apache-CXF-Webservice-Sample/ScalaApacheCXFWebserviceSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Spring-Integration-Scala-DSL/SpringIntegration.iml" filepath="$PROJECT_DIR$/../Spring-Integration-Scala-DSL/SpringIntegration.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/../Scala-Apache-CXF-Webservice-Sample" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/myService.wsdl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../Spring-Integration-Scala-DSL" charset="UTF-8" />
+  </component>
+</project>
+
